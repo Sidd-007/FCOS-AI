@@ -6,5 +6,7 @@ Fully Convolutional One-Stage Object Detector (FCOS) to solve object detection i
 ## Input
 ![image_1](https://user-images.githubusercontent.com/84730469/216777768-5a708ae0-a5f6-409c-aa72-207ab93167de.jpg)
 
+
+
 ## Output
 ![image_1_05](https://user-images.githubusercontent.com/84730469/216777847-69f6a05a-5e4f-4e93-81b0-5835d7124af1.jpg)
